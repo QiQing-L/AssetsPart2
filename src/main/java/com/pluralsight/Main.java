@@ -47,6 +47,8 @@ public class Main {
                 + ", Date Acquired: " + savings.getDateAcquired()
                 + ", Value: $" + savings.getValue() );
 
+        assets.add(savings);
+
 
 
     }
